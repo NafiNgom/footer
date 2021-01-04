@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+bady {
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+}
+
+h1 {
+    font-family: Arial, serif;
+    font-size: 40px;
+    color: #444444;
+}
+
+.orange {
+    color: #ffa500;
+}
+
+h

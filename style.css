@@ -1,21 +1,39 @@
-* {
-    margin: 0;
-    padding: 0;
+.left {
+    height: 450px;
+    width: 200px;
+    background-color: blue;
+    float: left;
 }
 
-bady {
-    font-family: Arial, sans-serif;
-    font-size: 15px;
+.right {
+    height: 420px;
+    width: 150px;
+    background-color: red;
+    float: right;
 }
 
-h1 {
-    font-family: Arial, serif;
-    font-size: 40px;
-    color: #444444;
+header {
+    height: 100px;
+    background-color: rgba(118, 223, 20, 0.267);
 }
 
-.orange {
-    color: #ffa500;
+footer {
+    height: 100px;
+    background-color: #444;
+    clear: both;
 }
 
-h
+footer h1 {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+.copyright {
+    text-align: center;
+}
+
+.contact {
+    height: 260px;
+    text-align: left;
+}
